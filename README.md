@@ -14,65 +14,99 @@ This repository contains the documentation and proof of my application process.
 
 ## Deliverable Proof (Applications Submitted)
 
-**1. Capgemini America Inc. (Junior Software Developer)**
+### 1. Capgemini America Inc. (Junior Software Developer)
+
 ![Description](Evidence/Capgemini-Desc.png)
+
 ![Application](Evidence/Capgemini-App.png)
+
 ![Confirmation](Evidence/Capgemini-Done.png)
 
-**2. Handshake AI (AI Trainer)**
+### 2. Handshake AI (AI Trainer)
+
 ![Description](Evidence/HandshakeAI-Desc.png)
+
 ![Application](Evidence/HandshakeAI-App.png)
+
 ![Confirmation](Evidence/HandshakeAI-Done.png)
 
-**3. United States Postal Service (Computer Programmer Analyst)**
+### 3. United States Postal Service (Computer Programmer Analyst)
+
 ![Description](Evidence/USPS-Desc.png)
+
 ![Confirmation](Evidence/USPS-Done.png)
 
-**4. Washington Fruit & Produce Company (Data Analyst Intern)**
+### 4. Washington Fruit & Produce Company (Data Analyst Intern)
+
 ![Description](Evidence/WaFruit-Desc.png)
+
 ![Application](Evidence/WaFruit-App.png)
+
 ![Confirmation](Evidence/WaFruit-Done.png)
 
-**5. Kyocera International Inc (Software Engineer Intern)**
+### 5. Kyocera International Inc (Software Engineer Intern)
+
 ![Description](Evidence/Kyocera-Desc.png)
+
 ![Application](Evidence/Kyocera-App.png)
+
 ![Confirmation](Evidence/Kyocera-Done.png)
 
-**6. Copart (Software Engineering Intern - SK)**
+### 6. Copart (Software Engineering Intern - SK)
+
 ![Description](Evidence/Copart-Desc.png)
+
 ![Application](Evidence/Copart-App.png)
+
 ![Confirmation](Evidence/Copart-Done.png)
 
-**7. Tata Consultancy Services (Software Engineer - Java)**
+### 7. Tata Consultancy Services (Software Engineer - Java)
+
 ![Description](Evidence/TataSE-Desc.png)
+
 ![Application](Evidence/TataSE-App.png)
+
 ![Confirmation](Evidence/TataSE-Done.png)
 
-**8. Tata Consultancy Services (Java Developer)**
+### 8. Tata Consultancy Services (Java Developer)
+
 ![Description](Evidence/TataDev-Desc.png)
+
 ![Application](Evidence/TataDev-App.png)
+
 ![Confirmation](Evidence/TataDev-Done.png)
 
-**9. Capgemini America Inc. (Software Developer)**
+### 9. Capgemini America Inc. (Software Developer)
+
 ![Description](Evidence/Capgemini2-Desc.png)
+
 ![Application](Evidence/Capgemini2-App.png)
+
 ![Confirmation](Evidence/Capgemini2-Done.png)
 
-**10. Cognizant (Software Engineer)**
+### 10. Cognizant (Software Engineer)
+
 ![Description](Evidence/Cognizant-Desc.png)
+
 ![Application](Evidence/Cognizant-App.png)
+
 ![Confirmation](Evidence/Cognizant-Done.png)
 
-**11. Software Merchant Inc (Java Developer)**
+### 11. Software Merchant Inc (Java Developer)
+
 ![Description](Evidence/SoftwareMerchant-Desc.png)
+
 ![Application](Evidence/SoftwareMerchant-App.png)
+
 ![Confirmation](Evidence/SoftwareMerchant-Done.png)
 
-**12. Infoblox Inc (Professional Services Consultant Intern)**
-![Description](Evidence/Infoblox-Desc.png)
-![Application](Evidence/Infoblox-App.png)
-![Confirmation](Evidence/Infoblox-Done.png)
+### 12. Infoblox Inc (Professional Services Consultant Intern)
 
+![Description](Evidence/Infoblox-Desc.png)
+
+![Application](Evidence/Infoblox-App.png)
+
+![Confirmation](Evidence/Infoblox-Done.png)
 ---
 ### Final Reflection
 [Click here to read my full Career Development Reflection](Reflection.md)
