@@ -1,1 +1,14 @@
-Initialize
+### Activity Description
+For this career development assignment, I went with a targeted job application sprint, investing over eight hours to research, tailor materials, and apply to 12 distinct technical roles. I focused heavily on positions aligning with my upcoming May 2026 graduation, specifically targeting full time opportunities and other post graduation internships. I documented the whole process, compiling tailored resumes, custom cover letters, and submission confirmations for roles spanning consulting, government, AI research, agriculture, and manufacturing.
+
+### Technical and Professional Decisions
+I diversified my applications to see different corporate structures and tech stacks. I looked into global consulting firms like Capgemini, Tata Consultancy Services, and Cognizant because their structured new grad pipelines promote foundational learning in enterprise workflows and AI tool integration. I also used my previous background, having previously worked at Hayton Farms, I applied for a Data Analyst Internship at Washington Fruit & Produce Company, using my agricultural knowledge to stand out for a role focused on operational data and machine learning.
+
+### Contributions
+The application sprint was a solo exercise, however the process required me to look at and articulate my collaborative experiences. I had to frame my role as the Lead Frontend and UI Developer on the Goat Herd Management capstone project. Translating that team-based project into individual technical achievements let me show to hiring managers how my experience architecting user interfaces and managing full stack integrations translates to enterprise environments.
+
+### Quality Assessment
+I am satisfied with the size and variety of the portfolio I built during this sprint. Going through the friction between seamless platforms like Handshake and cumbersome external corporate portals was a good lesson in modern applicant tracking systems. If I were to repeat this experience, I would improve my strategy by allocating a portion of the time to proactive networking. Engaging directly with recruiters or company alumni prior to submitting a cold application would likely result in a better interview conversion rate.
+
+### Career Alignment
+Analyzing these 12 job descriptions revealed a consistent industry demand for robust database architecture and clean code deployment. Roles explicitly requiring Spring Boot microservices, REST API design, and collaborative code reviews confirmed that my academic focus on full-stack development matches current employer needs. Engaging with these companies serves as setps toward my long-term goal of leading engineering teams and architecting large-scale, reliable software systems.
